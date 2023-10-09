@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string name="red_value">RED VALUE</string>
+    <string name="blue_value">BLUE VALUE</string>
+    <string name="green_value">GREEN VALUE</string>
+    <string name="generate">GENERATE</string>
+</resources>
